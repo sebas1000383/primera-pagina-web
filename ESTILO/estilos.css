@@ -1,0 +1,107 @@
+.Titulo1{
+    color: rgb(253, 0, 34);
+}
+.Texto{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Menu{
+    display: inline-block;
+    width: 220px;
+    text-align: center;
+    border: solid 2px rgb(14, 1, 204);
+    padding: 15px 0;
+}
+.Textocontenido{
+    font-size: 15px;
+    font-family: 'ARIAL';
+
+}
+.Piedepagina{
+    text-align: center;
+    color: #888888;
+    padding: 30px 0;
+}
+.textintroduccion{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Titulo2{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Resumen{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.LINKS{
+    text-decoration: none;
+    color: rgb(0, 132, 255);
+    font-size: 1.8em;
+    margin: 2 auto;
+    display: table;
+}
+.tabla{
+    border: solid; color: blue;
+}
+.Ussop{
+    border: solid; color: darkblue;
+}
+.Luffy{
+    border: solid; color: darkred;
+}
+.Zoro{
+    border: solid; color: darkgreen;
+}
+.Chopper{
+    border: solid; color: violet;
+}
+.Robin{
+    border: solid;color: deeppink;
+}
+.Franky{
+    border: solid; color: green;
+}
+.Brook{
+    border: solid; color: gray;
+}
+.Jimbei{
+    border: solid;color: darkturquoise;
+}
+.Sanji{
+    border: solid; color: darkgoldenrod;
+    
+    
+    
+    
+}
+.Video{
+    width: 800; height: 800;
+}
+body{
+    background-color: honeydew;
+}
+.Tablaluffy{
+    border-collapse: collapse;
+    padding: 20px;
+    width: 300px; height: 300px;
+}
+.luffytd{
+padding: 20px;
+}
+.imagenluffy{
+    width: 300px; height: 300px;
+}
+table tr:hover{
+    background-color: #ccc;
+}
+table td.hover{
+background-color: #000;
+color: #fff;
+}
+form{
+    width: 25%;
+    border:1px  solid #ccc
+  
+
+}
